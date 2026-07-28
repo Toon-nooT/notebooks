@@ -13,8 +13,8 @@
 * Powerful Collaboration of AI Agents with CrewAI: A Hands-On Marketing Use Case
   - This notebook shows how to do it [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Toon-nooT/notebooks/blob/main/Marketing_Campaign__With_CrewAI.ipynb)
 
-
-
+* Make an audiobook in your own voice from an epub ebook: 
+  - Record your voice for 10 seconds and make an audiobook in your own voice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Toon-nooT/notebooks/blob/main/Make_an_audiobook_in_your_own_voice_from_an_epub.ipynb)
 
 
 
